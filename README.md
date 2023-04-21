@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pratyush6265Singh
+- 👋 Hi, I’m @Pratyush Kumar
 - 👀 I’m interested in ... Coding
 - 🌱 I’m currently learning ...BCA
 - 💞️ I’m looking to collaborate on ...
